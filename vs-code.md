@@ -1,4 +1,6 @@
-# VS Code Extensions
+# VS Code
+
+## Extensions
 
 Name | Reason
 ---|---
