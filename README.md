@@ -6,4 +6,4 @@ Settings for personal computer
 - [VS Code](https://github.com/SeanMcP/.setup/blob/master/vs-code.md)
 
 ### Terminal
-- Hyper
+- [Hyper](https://github.com/SeanMcP/.setup/blob/master/hyper.md)
