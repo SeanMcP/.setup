@@ -13,6 +13,6 @@ Settings for personal computer
 
 ## Style
 ### Themes
-- [Nord](https://github.com/arcticicestudio/nord)
+- [Nord^](https://github.com/arcticicestudio/nord)
 
-(\* Preferred)
+(\* preferred, \^ external)
