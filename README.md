@@ -9,6 +9,8 @@ Settings for personal computer
 ### Terminal
 - [Hyper](https://github.com/SeanMcP/.setup/blob/master/hyper.md)
 
+### [Install List](https://github.com/SeanMcP/.setup/blob/master/program-list.md)
+
 ## Style
 ### Themes
 - [Nord](https://github.com/arcticicestudio/nord)
