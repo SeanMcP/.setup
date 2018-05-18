@@ -9,7 +9,8 @@ Settings for personal computer
 ### Terminal
 - [Hyper](https://github.com/SeanMcP/.setup/blob/master/hyper.md)
 
-### General Themes
+## Style
+### Themes
 - [Nord](https://github.com/arcticicestudio/nord)
 
 (\* Preferred)
