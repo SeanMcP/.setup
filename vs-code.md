@@ -24,11 +24,16 @@
 
 Name | Reason
 ---|---
-Date & Time | Displays the date in the status bar
-Path Intellisense | Autocompletes filepaths and names
-ES7 React/... snippets | Snippets for React
 Auto Close Tag | Closes HTML and JSX tags
-Duplicate actions | Duplicate files
-ESLint | Highlights common mistakes
+Auto Rename Tag | 
 Beautify | Code formatting
+Color Highlight | Previews color behind the text instead of just a color bauble
+Date & Time | Displays the date in the status bar
+Duplicate actions | Duplicate files
+ES7 React/... snippets | Snippets for React
+ESLint | Highlights common mistakes
+GitLens | More robust git features including inline edit history
+Import Cost | Displays filesize for imported modules
+Intellisense for CSS | Autocomples for CSS
 npm Intellisense | Autocompletes npm packages
+Path Intellisense | Autocompletes filepaths and names
