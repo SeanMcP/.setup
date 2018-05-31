@@ -15,7 +15,7 @@ Settings for personal computer
 - [Hyper](https://github.com/SeanMcP/.setup/blob/master/hyper.md)
 
 ## Utilities
-- [Brew](https://github.com/SeanMcP/.setup/blob/master/brew.md)
+- [Brew](https://github.com/SeanMcP/.setup/blob/master/brew.md): Package manager
 
 ## Style
 ### Themes
