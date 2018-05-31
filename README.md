@@ -1,6 +1,8 @@
 # .setup
 Settings for personal computer
 
+(\* preferred, \^ external)
+
 ## Programs
 ### Install
 - [FireFox DE^](https://www.mozilla.org/en-US/firefox/developer/): Developers edition
@@ -20,5 +22,3 @@ Settings for personal computer
 ## Style
 ### Themes
 - [Nord^](https://github.com/arcticicestudio/nord)
-
-(\* preferred, \^ external)
