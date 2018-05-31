@@ -1,9 +1,6 @@
 # .setup
 Settings for personal computer
 
-## Utilities
-- [Brew](https://github.com/SeanMcP/.setup/blob/master/brew.md)
-
 ## Programs
 ### Text editors
 - [VS Code*](https://github.com/SeanMcP/.setup/blob/master/vs-code.md)
@@ -13,6 +10,9 @@ Settings for personal computer
 - [Hyper](https://github.com/SeanMcP/.setup/blob/master/hyper.md)
 
 ### [Install List](https://github.com/SeanMcP/.setup/blob/master/program-list.md)
+
+## Utilities
+- [Brew](https://github.com/SeanMcP/.setup/blob/master/brew.md)
 
 ## Style
 ### Themes
