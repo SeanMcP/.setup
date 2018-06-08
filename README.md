@@ -3,6 +3,8 @@ Settings for personal computer
 
 (\* preferred, \^ external)
 
+## Environment
+- [Git Aliases](https://github.com/SeanMcP/.setup/blob/master/git.md)
 ## Programs
 ### Install
 - [FireFox DE^](https://www.mozilla.org/en-US/firefox/developer/): Developers edition
