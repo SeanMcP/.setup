@@ -14,7 +14,6 @@
 - [Atom](https://github.com/SeanMcP/.setup/blob/master/atom.md)
 
 ### 🖥 Terminal
-- [Hyper](https://github.com/SeanMcP/.setup/blob/master/hyper.md): Electron-based cross-platform terminal
 - [iTerm^](https://iterm2.com/): Terminal replacement on MacOS
 
 ### 🍌 Other
