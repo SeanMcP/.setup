@@ -15,8 +15,7 @@
     "dateTime.customFormat": "h:mm a",
     "prettier.singleQuote": true,
     "prettier.tabWidth": 4,
-    "prettier.trailingComma": "all",
-    "workbench.colorTheme": "Nord",
+    "prettier.trailingComma": "none"
 }
 ```
 
@@ -26,7 +25,6 @@ Name | Reason
 ---|---
 Auto Close Tag | Closes HTML and JSX tags
 Auto Rename Tag | 
-Beautify | Code formatting
 Color Highlight | Previews color behind the text instead of just a color bauble
 Date & Time | Displays the date in the status bar
 Duplicate actions | Duplicate files
@@ -37,3 +35,4 @@ Import Cost | Displays filesize for imported modules
 Intellisense for CSS | Autocomples for CSS
 npm Intellisense | Autocompletes npm packages
 Path Intellisense | Autocompletes filepaths and names
+Prettier | Code formatting
