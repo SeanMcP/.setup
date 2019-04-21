@@ -2,7 +2,7 @@
 > Settings for personal computer
 
 ## Environment
-- [Git Aliases](https://github.com/SeanMcP/.setup/blob/master/git.md)
+- [Git Aliases](/git.md)
 
 ## Programs
 ### [🌎 Browsers](/browsers.md)
@@ -10,8 +10,8 @@
 - [FireFox DE^](https://www.mozilla.org/en-US/firefox/developer/): Developers edition
 
 ### ⌨️ Text editors
-- [VS Code*](https://github.com/SeanMcP/.setup/blob/master/vs-code.md)
-- [Atom](https://github.com/SeanMcP/.setup/blob/master/atom.md)
+- [VS Code*](/vs-code.md)
+- [Atom](/atom.md)
 
 ### 🖥 Terminal
 - [iTerm^](https://iterm2.com/): Terminal replacement on MacOS
@@ -21,7 +21,7 @@
 
 ## Utilities
 ### 📦 Package managers
-- [Brew](https://github.com/SeanMcP/.setup/blob/master/brew.md): Package manager for MacOS
+- [Brew](/brew.md): Package manager for MacOS
 - [Chocolatey^](https://chocolatey.org/): Package manager on Windows
 
 ## Style
