@@ -11,7 +11,6 @@
 
 ### ⌨️ Text editors
 - [VS Code*](/vs-code.md)
-- [Atom](/atom.md)
 
 ### 🖥 Terminal
 - [iTerm^](https://iterm2.com/): Terminal replacement on MacOS
