@@ -16,7 +16,7 @@ Name | Keyword | Url
 ---|---|---
 GitHub|`gh`|`https://github.com/%s`
 GitHub Search|`sgh`|`https://github.com/?search=%s`
-npm|`np`|`https://npmjs.com?search=%s`
+npm|`np`|`https://npmjs.com/search?q=%s`
 Wikipedia|`wk`|`https://en.wikipedia.org/w/index.php?search=%s`
 
 ## Extensions
