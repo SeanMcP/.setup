@@ -15,7 +15,7 @@ Firefox calls them "search keywords" while Chrome uses "other search engines."
 Name | Keyword | Url
 ---|---|---
 GitHub|`gh`|`https://github.com/%s`
-GitHub Search|`sgh`|`https://github.com/?search=%s`
+GitHub Search|`sgh`|`https://github.com/search?q=%s`
 npm|`np`|`https://npmjs.com/search?q=%s`
 Wikipedia|`wk`|`https://en.wikipedia.org/w/index.php?search=%s`
 
